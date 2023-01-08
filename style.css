@@ -1,0 +1,25 @@
+/* basic styling */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background: black;
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+/* center everything by default */
+.container {
+  width: 100%;
+}
+
+h1 {
+  font-size: 4em;
+  font-weight: 800;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
